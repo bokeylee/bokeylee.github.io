@@ -1,14 +1,13 @@
 ---
 layout:     post
-title:      阿里云ECS服务器centos7系统安装MongoDB
-subtitle:   Linux系统软件安装
-date:       2019-08-01
-author:     Will Wang
+title:      非常啰嗦的黑果之路分享
+subtitle:   技嘉Z390M GAMING / 9600K / RX580-O8G / 94331
+date:       2020-04-19
+author:     Bokey Lee
 header-img: img/post-bg-article.jpg
 catalog: true
 tags:
-    - 阿里云
-    - MongoDB
+    - 黑苹果
 ---
 
 #### 简介
